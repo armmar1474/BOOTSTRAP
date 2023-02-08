@@ -22,3 +22,26 @@ ul {
  li a:hover {
     color: green;
  }
+  
+ .nkar {
+   width: 240px;
+   height: 250px;
+   margin-top: 80px;
+}
+
+.himnakan {
+   text-align: center;
+   background-color:greenyellow ;
+}
+
+.start{
+   color: white;
+   display: block;
+   font-size: 80px;
+   font-weight: bold ;
+}
+
+.finish {
+   font-size:40px ;
+   color: white;
+}
